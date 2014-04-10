@@ -1,0 +1,32 @@
+FID,STFIPS,countyFIPS,FIPS,STPOSTAL,STATE,COUNTY,Region,Area
+0,9,005,09005,CT,Connecticut,Litchfield,Connecticut,26339918931
+1,36,105,36105,NY,New York,Sullivan,Hudson Valley,27796607520
+2,36,027,36027,NY,New York,Dutchess,Hudson Valley,22515450805
+3,36,071,36071,NY,New York,Orange,Hudson Valley,23168590000
+4,36,079,36079,NY,New York,Putnam,Hudson Valley,6805112691
+5,34,037,34037,NJ,New Jersey,Sussex,Central New Jersey,14942674643
+6,36,087,36087,NY,New York,Rockland,Hudson Valley,4984562323
+7,34,031,34031,NJ,New Jersey,Passaic,Northern New Jersey,5493464698
+8,9,009,09009,CT,Connecticut,New Haven,Connecticut,17188127471
+9,34,003,34003,NJ,New Jersey,Bergen,Northern New Jersey,6724385217
+10,34,041,34041,NJ,New Jersey,Warren,Central New Jersey,10112851635
+11,34,027,34027,NJ,New Jersey,Morris,Central New Jersey,13417279235
+12,9,001,09001,CT,Connecticut,Fairfield,Connecticut,17954796819
+13,34,013,34013,NJ,New Jersey,Essex,Northern New Jersey,3560870347
+14,36,119,36119,NY,New York,Westchester,Hudson Valley,12532008277
+15,36,005,36005,NY,New York,Bronx,New York City,1175669993
+16,34,019,34019,NJ,New Jersey,Hunterdon,Central New Jersey,12204128037
+17,34,035,34035,NJ,New Jersey,Somerset,Central New Jersey,8504091763
+18,34,039,34039,NJ,New Jersey,Union,Northern New Jersey,2892028455
+19,34,017,34017,NJ,New Jersey,Hudson,Northern New Jersey,1309820576
+20,36,061,36061,NY,New York,Manhattan,New York City,643838934.6
+21,36,103,36103,NY,New York,Suffolk,Long Island,25625703992
+22,36,059,36059,NY,New York,Nassau,Long Island,8026578187
+23,36,047,36047,NY,New York,Brooklyn,New York City,1971541733
+24,36,085,36085,NY,New York,Staten Island,New York City,1631127984
+25,36,081,36081,NY,New York,Queens,New York City,3057893018
+26,34,023,34023,NJ,New Jersey,Middlesex,Central New Jersey,8709941595
+27,34,021,34021,NJ,New Jersey,Mercer,Central New Jersey,6358233475
+28,34,025,34025,NJ,New Jersey,Monmouth,Central New Jersey,13255155212
+29,34,029,34029,NJ,New Jersey,Ocean,Central New Jersey,17850954879
+30,36,111,36111,NY,New York,Ulster,Hudson Valley,32015183185
